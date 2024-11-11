@@ -1,0 +1,10 @@
+{
+  "name": "kasada-solver",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "author": "MiddleSchoolStudent",
+  "dependencies": {
+    "puppeteer-core": "^23.7.1"
+  }
+}
